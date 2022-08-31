@@ -1,4 +1,4 @@
-#this project was made for Popupsmart React Practicum patika.dev
+# this project was made for Popupsmart React Practicum patika.dev
 
 here are some screenshots
 
