@@ -18,19 +18,21 @@ function Container() {
   return (
     <div className="text-center">
       {!visible && (
-        <div className="justify-content-center">
-          <div className="col-8">
+        <div className="row m-0 justify-content-center">
+          <div className="col-6 mt-5">
             <br />
             <input
               type="text"
               className="form-control form-control-lg border-0 border-bottom"
               placeholder="Username..."
-              style={{ boxShadow: "none" }}
               onChange={handleChange}
             />
             <br />
-            <button className="btn btn-danger" onClick={() => saveUsername()}>
-              Save me...
+            <button
+              className="btn btn-lg btn-danger"
+              onClick={() => saveUsername()}
+            >
+              Remember Me !
             </button>
           </div>
         </div>
