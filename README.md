@@ -1,3 +1,15 @@
+#this project was made for Popupsmart React Practicum patika.dev
+
+here are some screenshots
+
+
+<img width="1677" alt="Screen Shot 2022-08-31 at 23 23 11" src="https://user-images.githubusercontent.com/23610345/187776007-07c1eb88-4fe0-4df4-afc9-3c8481ba1b1f.png">
+
+![Screen Shot 2022-08-31 at 23 23 42](https://user-images.githubusercontent.com/23610345/187775967-04ceb9b1-3c77-4623-ac5d-b56c738b8f31.png)
+
+
+![Screen Shot 2022-08-31 at 23 23 45](https://user-images.githubusercontent.com/23610345/187775977-a257439e-ee0a-4e93-ba35-e6827cfe9330.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
